@@ -10,3 +10,7 @@ Created a New ticket by End user in osTicket.
 
 Sucessfully reassigned ticket to the correct team member.
 
+![Image](https://github.com/user-attachments/assets/f15a0882-9cc6-450c-8bee-26a411ed85c5)
+![Image](https://github.com/user-attachments/assets/ce12f09f-2017-4a32-b4b3-0d3aa862211c)
+
+Team member successfully received and updated the ticket with replies.
