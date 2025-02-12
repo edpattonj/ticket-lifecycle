@@ -14,3 +14,9 @@ Sucessfully reassigned ticket to the correct team member.
 ![Image](https://github.com/user-attachments/assets/ce12f09f-2017-4a32-b4b3-0d3aa862211c)
 
 Team member successfully received and updated the ticket with replies.
+
+![Image](https://github.com/user-attachments/assets/cd866910-3c18-46f6-8a0a-9cbb169449a2)
+![Image](https://github.com/user-attachments/assets/f967a034-6867-4c63-8848-e6a1510087cc)
+
+Team member successfully resolved and closed the ticket.
+
